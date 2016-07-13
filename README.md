@@ -1,4 +1,4 @@
-Blog Unoversidad
+Blog Universidad
 
 [Descripcion del proyecto]
 
@@ -14,3 +14,5 @@ Blog Unoversidad
 [Roadmap]
 
 [Licencia]
+
+[Agradecimientos]
